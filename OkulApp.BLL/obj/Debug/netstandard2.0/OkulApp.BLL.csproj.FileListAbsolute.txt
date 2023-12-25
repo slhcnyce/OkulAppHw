@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.deps.json
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.pdb
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.sourcelink.json
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CopyComplete
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.pdb
