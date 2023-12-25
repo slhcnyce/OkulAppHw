@@ -29,7 +29,7 @@ namespace OkulAppSube1BIL
         {
             try
             {
-                var obl = new OgrenciBL();
+                var obl = new OgretmenBL();
                 bool sonuc = obl.OgretmenEkle(new Ogretmen { Ad = txtOgrtAd.Text.Trim(), Soyad = txtOgrtSoyad.Text.Trim(), Tc = txtOgrtTc.Text.Trim() });
                 MessageBox.Show(sonuc ? "Ekleme Başarılı!" : "Ekleme Başarısız!!");
             }
