@@ -21,3 +21,4 @@ C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAp
 C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.pdb
 C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.frmOgrtKayit.resources
 C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.frmGiris.resources
+C:\Users\Dell\Desktop\ExampleHw\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.frmOgrBul.resources
